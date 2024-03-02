@@ -4,7 +4,7 @@ import PostPage from "./PostPage";
 import SearchPage from "./SearchPage";
 import TopicPage from "./TopicPage";
 import MyProfile from "./myProfile";
-import PopularTopics from "./popularTopics";
+import PopularTopics from "./PopularTopics";
 import SavedPosts from "./savedPosts";
 
 export {
