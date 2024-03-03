@@ -6,7 +6,7 @@ import { useUserContext } from "@/context/userContext";
 import { Skeleton } from "@ui/skeleton";
 import ProfileHeader from "./ProfileHeader";
 import TopicsCreatedBy from "./TopicsCreatedBy";
-import Post from "@/components/common/post";
+import Post from "@/components/common/Post";
 import { BiSolidMessageError } from "react-icons/bi";
 
 const MyProfile = () => {
